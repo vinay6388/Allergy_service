@@ -1,0 +1,13 @@
+INSERT INTO   allergy (`allergy_id`, `allergy_name`, `notes`) VALUES ('AL001', 'Animal Allergy', 'Allergy from some dogs and cats .');
+INSERT INTO   allergy (`allergy_id`, `allergy_name`, `notes`) VALUES ('AL002', 'Pet Allergy', 'contact in pet started iteching');
+INSERT INTO   allergy (`allergy_id`, `allergy_name`, `notes`) VALUES ('AL003', 'Insect Allergy', 'Allergies to insect and bites then start body pain and red rash');
+INSERT INTO   allergy (`allergy_id`, `allergy_name`, `notes`) VALUES ('AL004', 'Pollen Allergy', 'Runny,itchy and congested nose');
+INSERT INTO  allergy (`allergy_id`, `allergy_name`, `notes`) VALUES ('AL005', 'Mold Allergy', 'Coughing,itchy eyes,problem in breath');
+INSERT INTO   allergy (`allergy_id`, `allergy_name`, `notes`) VALUES ('AL006', 'Anaphylaxis Allergy', 'Skin rash,Nausea,Vomiting, Shock');
+INSERT INTO     allergy (`allergy_id`, `allergy_name`, `notes`) VALUES ('AL007', 'Severe Allergy', 'Swelling of the lips,Uterine cramps');
+INSERT INTO     allergy (`allergy_id`, `allergy_name`, `notes`) VALUES ('AL008', 'Urticaria', 'weals,rash on skin,itchy');
+INSERT INTO allergy (`allergy_id`, `allergy_name`, `notes`) VALUES ('AL009', 'Drug Allergy', 'stevens -Johnson Syndrome,allergy from Antibiotic medicine');
+INSERT INTO allergy (`allergy_id`, `allergy_name`, `notes`) VALUES ('AL010', 'Food Allergy', 'A tiny amount of allergy-causing from eggs, milk and cold fruits');
+INSERT INTO  allergy (`allergy_id`, `allergy_name`, `notes`) VALUES ('AL011', 'Contact Allergy', 'Skin red  rash  and allergy from soap ,cosmetic use');
+INSERT INTO  allergy (`allergy_id`, `allergy_name`, `notes`) VALUES ('AL012', 'Latex Allergy', 'Allergy from natural rubber and some chemicals such as butadiene');
+INSERT INTO  allergy (`allergy_id`, `allergy_name`, `notes`) VALUES ('AL013', 'Seasonal Allergy', 'In spring season patient body rash and Hay fever');
